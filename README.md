@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subeen Regmi.</h1>
 <h3 align="center">An 18 year old studying in the UK</h3>
 
-- 🔭 I’m currently working on [pyChain, a blockchain.](https://github.com/subeenregmi/pychain)
+- 🔭 I’m currently working on [pyChain](https://github.com/subeenregmi/pychain)
 
 - 🤖 I'm currently learning **about Nueral Networks.**
 
