@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Subeen Regmi.</h1>
-<h3 align="center">Learning new things are fun!</h3>
+<h3 align="center">Learning and Developing</h3>
 
 - 🔭 I’m currently working on **pyChain, a blockchain.**
 
