@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subeen Regmi.</h1>
 <h3 align="center">An 18 year old studying in the UK</h3>
 
-- 🔭 I’m currently working on [the card game JutPatti](https://github.com/subeenregmi/JutPatti-Cards-Game)
+- 🔭 I’m currently working on my Alevels.
 
 - 🤖 I'm currently learning **about Nueral Networks.**
 
