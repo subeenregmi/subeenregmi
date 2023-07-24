@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Subeen Regmi.</h1>
 <h3 align="center">An 18 year old studying in the UK</h3>
 
-- 🔭 I’m currently relaxing.
+- 🔭 I’m currently creating a machine learning framework, <a href="https://github.com/subeenregmi/neuralnetworkz/tree/master/neural.h">neural.h</a>.
 
 - 🤖 I'm currently learning **C++.**
 
