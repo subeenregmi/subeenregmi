@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Subeen Regmi.</h1>
 
-- 🔭 I’m currently creating a machine learning framework, <a href="https://github.com/subeenregmi/neuralnetworkz/tree/master/neural.h">neural.h</a>.
+- 🔭 I’m currently creating a machine learning framework, <a href="https://github.com/subeenregmi/nnf.git">nnf</a>.
 
 - 🤖 I'm currently learning **C++.**
 
